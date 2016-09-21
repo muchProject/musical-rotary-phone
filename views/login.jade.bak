@@ -1,0 +1,30 @@
+
+
+
+<h1> #{title}</h1>
+<p>Microblog is Node.js system.</p>
+<p>
+<a class="btn btn-primary btn-large" href="/login">Login</a>
+<a class="btn btn-large" href="/reg">Register</a>
+</p>
+</div>
+<div class="row">
+<div class="span4">
+<h2>LOGIN </h2>
+<p>#{login}</p>
+</div>
+<div class="span4">
+<h2>MA said</h2>
+<p>
+Open Chinese Conver  (OpenC)is a  open systeam.
+test  test.</p>
+</div>
+<div class="span4">
+<h2>Fo SAID</h2>
+<p>engine / Rime Input Method Engine from zhongzhou,
+hope write a  ......
+project use in http://code.google.com/p/rimeime/
+GOOD</p>
+</div>
+
+
