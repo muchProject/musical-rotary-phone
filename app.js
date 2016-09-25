@@ -83,7 +83,7 @@ var dbpath = 'mongodb://' + config.host +':'+config.port + '/' + config.db;
 
 var newstroe = new MongoStore({
 	   url:dbpath,
-	   ttl: 300,
+	   ttl: 3000,
 	   });
 //autoRemove: 'interval',
 //autoRemoveInterval: 1 //     ttl: 7 * 24 * 60 * 60 // = 7 days. Default
